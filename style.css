@@ -1,0 +1,51 @@
+#login_body
+{
+	background-image:url("download (26).jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+	div
+	{
+		background:black;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width:40%;
+		margin-top:50px;
+		color:white;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:red;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+button{
+width:170px;
+height:50px;	
+}
+h1{
+	background-color:rgb(110, 234, 176);
+	width:50%;
+}
+input{
+	color:black;
+}
